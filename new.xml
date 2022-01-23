@@ -1,8 +1,11 @@
+
+<?xml version="1.0" encoding="UFT-8"?>
+
 	<ROOT>
-		<RECORD>
+		<USER1>
 			<NAME>NATALLIA</NAME>
 			<SURNAME>CHELOVECHKINA</SURNAME>
-			<PETS>0</PATS>
+			<PETS>0</PETS>
 			<SALARY>2000</SALARY>
-		</RECORD>
+		</USER1>
 	</ROOT>
